@@ -1,11 +1,11 @@
 # Map AI Usage to Deliverables
 
 **Lightning Lesson · May 13, 2026 · 11:30 AM PT**
-*Why your AI dashboard is lying. And how to build the engine that tells the truth.*
+*Vendor AI dashboards count logins. Your CFO needs to count deliveries.*
 
 ---
 
-## 📥 Download the slides
+## Download the slides
 
 **[Map_AI_Usage_to_Deliverables_VyomaGajjar.pdf](./Map_AI_Usage_to_Deliverables_VyomaGajjar.pdf)** · 24 slides · 460 KB
 
@@ -31,8 +31,8 @@ The Python engine (~760 lines, standard library only) is not in this repo. Thres
 
 ## About the instructor
 
-**Vyoma Gajjar** — enterprise AI, architecture, adoption.
-Senior Principal AI Architect. Teaches enterprise AI to C-suite via Maven, MIT Sloan, UCLA, UT Austin.
+**Vyoma Gajjar.** Enterprise AI, architecture, adoption.
+Senior Principal AI Architect. Teaches enterprise AI to C-suite executives through cohort programs and executive-education platforms.
 
 ## License
 
